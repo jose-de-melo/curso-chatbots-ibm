@@ -1,0 +1,604 @@
+{
+    "ranking": [
+        {
+            "Posição": 1,
+            "Nome": "Avatar",
+            "Ano de Lançameto": 2009,
+            "Arrecadação": 2777200000
+        },
+        {
+            "Posição": 2,
+            "Nome": "Vingadores: Ultimato",
+            "Ano de Lançameto": 2019,
+            "Arrecadação": 2624900000
+        },
+        {
+            "Posição": 3,
+            "Nome": "Titanic",
+            "Ano de Lançameto": 1997,
+            "Arrecadação": 2128900000
+        },
+        {
+            "Posição": 4,
+            "Nome": "Star Wars: Episódio VII - O Despertar da Força",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 2068200000
+        },
+        {
+            "Posição": 5,
+            "Nome": "Vingadores: Guerra Infinita",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 2048400000
+        },
+        {
+            "Posição": 6,
+            "Nome": "Jurassic World: O Mundo dos Dinossauros",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 1671700000
+        },
+        {
+            "Posição": 7,
+            "Nome": "Os Vingadores",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 1518800000
+        },
+        {
+            "Posição": 8,
+            "Nome": "Velozes e Furiosos 7",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 1516000000
+        },
+        {
+            "Posição": 9,
+            "Nome": "Vingadores: Era de Ultron",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 1405400000
+        },
+        {
+            "Posição": 10,
+            "Nome": "Pantera Negra",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 1346900000
+        },
+        {
+            "Posição": 11,
+            "Nome": "Harry Potter e As Relíquias da Morte: Parte 2",
+            "Ano de Lançameto": 2011,
+            "Arrecadação": 1341500000
+        },
+        {
+            "Posição": 12,
+            "Nome": "Star Wars: Episódio VIII - Os Últimos Jedi",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 1332500000
+        },
+        {
+            "Posição": 13,
+            "Nome": "Jurassic World: Reino Ameaçado",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 1309500000
+        },
+        {
+            "Posição": 14,
+            "Nome": "Frozen: Uma Aventura Congelante",
+            "Ano de Lançameto": 2013,
+            "Arrecadação": 1276400000
+        },
+        {
+            "Posição": 15,
+            "Nome": "A Bela e A Fera",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 1263500000
+        },
+        {
+            "Posição": 16,
+            "Nome": "Os Incríveis 2",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 1242800000
+        },
+        {
+            "Posição": 17,
+            "Nome": "Velozes e Furiosos 8",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 1236000000
+        },
+        {
+            "Posição": 18,
+            "Nome": "Homem de Ferro 3",
+            "Ano de Lançameto": 2013,
+            "Arrecadação": 1214800000
+        },
+        {
+            "Posição": 19,
+            "Nome": "Minions",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 1159400000
+        },
+        {
+            "Posição": 20,
+            "Nome": "Capitão América: Guerra Civil",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 1153300000
+        },
+        {
+            "Posição": 21,
+            "Nome": "Aquaman",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 1147800000
+        },
+        {
+            "Posição": 22,
+            "Nome": "Capitã Marvel",
+            "Ano de Lançameto": 2019,
+            "Arrecadação": 1126600000
+        },
+        {
+            "Posição": 23,
+            "Nome": "Transformers: O Lado Oculto da Lua",
+            "Ano de Lançameto": 2011,
+            "Arrecadação": 1123800000
+        },
+        {
+            "Posição": 24,
+            "Nome": "O Senhor dos Anéis: O Retorno do Rei",
+            "Ano de Lançameto": 2003,
+            "Arrecadação": 1119100000
+        },
+        {
+            "Posição": 25,
+            "Nome": "007: Operação Skyfall",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 1108600000
+        },
+        {
+            "Posição": 26,
+            "Nome": "Transformers: A Era da Extinção",
+            "Ano de Lançameto": 2014,
+            "Arrecadação": 1104000000
+        },
+        {
+            "Posição": 27,
+            "Nome": "Batman - O Cavaleiro das Trevas Ressurge",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 1084900000
+        },
+        {
+            "Posição": 28,
+            "Nome": "Piratas do Caribe: O Baú da Morte",
+            "Ano de Lançameto": 2006,
+            "Arrecadação": 1066200000
+        },
+        {
+            "Posição": 29,
+            "Nome": "Toy Story 3",
+            "Ano de Lançameto": 2010,
+            "Arrecadação": 1063200000
+        },
+        {
+            "Posição": 30,
+            "Nome": "Rogue One: Uma História Star Wars",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 1056100000
+        },
+        {
+            "Posição": 31,
+            "Nome": "Piratas do Caribe: Navegando em Águas Misteriosas",
+            "Ano de Lançameto": 2011,
+            "Arrecadação": 1045700000
+        },
+        {
+            "Posição": 32,
+            "Nome": "Meu Malvado Favorito 3",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 1034800000
+        },
+        {
+            "Posição": 33,
+            "Nome": "Procurando Dory",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 1028600000
+        },
+        {
+            "Posição": 34,
+            "Nome": "Alice no País das Maravilhas",
+            "Ano de Lançameto": 2010,
+            "Arrecadação": 1024300000
+        },
+        {
+            "Posição": 35,
+            "Nome": "Zootopia",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 1023800000
+        },
+        {
+            "Posição": 36,
+            "Nome": "O Hobbit: Uma Jornada Inesperada",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 1017000000
+        },
+        {
+            "Posição": 37,
+            "Nome": "Batman - O Cavaleiro das Trevas",
+            "Ano de Lançameto": 2008,
+            "Arrecadação": 1003000000
+        },
+        {
+            "Posição": 38,
+            "Nome": "Harry Potter e A Pedra Filosofal",
+            "Ano de Lançameto": 2001,
+            "Arrecadação": 974800000
+        },
+        {
+            "Posição": 39,
+            "Nome": "Meu Malvado Favorito 2",
+            "Ano de Lançameto": 2013,
+            "Arrecadação": 970800000
+        },
+        {
+            "Posição": 40,
+            "Nome": "Mogli: O Menino Lobo",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 966500000
+        },
+        {
+            "Posição": 41,
+            "Nome": "Piratas do Caribe: No Fim do Mundo",
+            "Ano de Lançameto": 2007,
+            "Arrecadação": 963400000
+        },
+        {
+            "Posição": 42,
+            "Nome": "Jumanji: Bem-vindo à Selva",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 962100000
+        },
+        {
+            "Posição": 43,
+            "Nome": "Harry Potter e As Relíquias da Morte: Parte 1",
+            "Ano de Lançameto": 2010,
+            "Arrecadação": 960300000
+        },
+        {
+            "Posição": 44,
+            "Nome": "O Hobbit: A Desolação de Smaug",
+            "Ano de Lançameto": 2013,
+            "Arrecadação": 958400000
+        },
+        {
+            "Posição": 45,
+            "Nome": "O Hobbit: A Batalha dos Cinco Exércitos",
+            "Ano de Lançameto": 2014,
+            "Arrecadação": 956000000
+        },
+        {
+            "Posição": 46,
+            "Nome": "Harry Potter e A Ordem da Fênix",
+            "Ano de Lançameto": 2007,
+            "Arrecadação": 939900000
+        },
+        {
+            "Posição": 47,
+            "Nome": "Harry Potter e O Enigma do Príncipe",
+            "Ano de Lançameto": 2009,
+            "Arrecadação": 934400000
+        },
+        {
+            "Posição": 48,
+            "Nome": "Star Wars: Episódio I - A Ameaça Fantasma",
+            "Ano de Lançameto": 1999,
+            "Arrecadação": 925600000
+        },
+        {
+            "Posição": 49,
+            "Nome": "O Senhor dos Anéis: As Duas Torres",
+            "Ano de Lançameto": 2002,
+            "Arrecadação": 923300000
+        },
+        {
+            "Posição": 50,
+            "Nome": "Parque dos Dinossauros",
+            "Ano de Lançameto": 1993,
+            "Arrecadação": 919800000
+        },
+        {
+            "Posição": 51,
+            "Nome": "Shrek 2",
+            "Ano de Lançameto": 2004,
+            "Arrecadação": 919800000
+        },
+        {
+            "Posição": 52,
+            "Nome": "Bohemian Rhapsody",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 903100000
+        },
+        {
+            "Posição": 53,
+            "Nome": "Harry Potter e O Cálice de Fogo",
+            "Ano de Lançameto": 2005,
+            "Arrecadação": 896900000
+        },
+        {
+            "Posição": 54,
+            "Nome": "Procurando Nemo",
+            "Ano de Lançameto": 2003,
+            "Arrecadação": 895600000
+        },
+        {
+            "Posição": 55,
+            "Nome": "Homem-Aranha 3",
+            "Ano de Lançameto": 2007,
+            "Arrecadação": 890800000
+        },
+        {
+            "Posição": 56,
+            "Nome": "A Era do Gelo 3",
+            "Ano de Lançameto": 2009,
+            "Arrecadação": 886700000
+        },
+        {
+            "Posição": 57,
+            "Nome": "007 Contra Spectre",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 880700000
+        },
+        {
+            "Posição": 58,
+            "Nome": "Homem-Aranha: De Volta ao Lar",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 880200000
+        },
+        {
+            "Posição": 59,
+            "Nome": "Harry Potter e A Câmara Secreta",
+            "Ano de Lançameto": 2002,
+            "Arrecadação": 879000000
+        },
+        {
+            "Posição": 60,
+            "Nome": "A Era do Gelo 4",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 877200000
+        },
+        {
+            "Posição": 61,
+            "Nome": "Pets: A Vida Secreta dos Bichos",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 875500000
+        },
+        {
+            "Posição": 62,
+            "Nome": "Batman vs Superman: A Origem da Justiça",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 873300000
+        },
+        {
+            "Posição": 63,
+            "Nome": "Wolf Warrior II",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 870300000
+        },
+        {
+            "Posição": 64,
+            "Nome": "O Senhor dos Anéis: A Sociedade do Anel",
+            "Ano de Lançameto": 2001,
+            "Arrecadação": 869400000
+        },
+        {
+            "Posição": 65,
+            "Nome": "Jogos Vorazes: Em Chamas",
+            "Ano de Lançameto": 2013,
+            "Arrecadação": 865000000
+        },
+        {
+            "Posição": 66,
+            "Nome": "Guardiões da Galáxia Vol. 2",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 863700000
+        },
+        {
+            "Posição": 67,
+            "Nome": "Divertida Mente",
+            "Ano de Lançameto": 2015,
+            "Arrecadação": 857600000
+        },
+        {
+            "Posição": 68,
+            "Nome": "Venom",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 855000000
+        },
+        {
+            "Posição": 69,
+            "Nome": "Thor: Ragnarok",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 854000000
+        },
+        {
+            "Posição": 70,
+            "Nome": "Star Wars: Episódio III - A Vingança dos Sith",
+            "Ano de Lançameto": 2005,
+            "Arrecadação": 848800000
+        },
+        {
+            "Posição": 71,
+            "Nome": "Transformers: A Vingança dos Derrotados",
+            "Ano de Lançameto": 2009,
+            "Arrecadação": 836300000
+        },
+        {
+            "Posição": 72,
+            "Nome": "A Saga Crepúsculo: Amanhecer - Parte 2",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 829700000
+        },
+        {
+            "Posição": 73,
+            "Nome": "A Origem",
+            "Ano de Lançameto": 2010,
+            "Arrecadação": 825600000
+        },
+        {
+            "Posição": 74,
+            "Nome": "Mulher-Maravilha",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 821900000
+        },
+        {
+            "Posição": 75,
+            "Nome": "Homem-Aranha",
+            "Ano de Lançameto": 2002,
+            "Arrecadação": 821700000
+        },
+        {
+            "Posição": 76,
+            "Nome": "Animais Fantásticos e Onde Habitam",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 814000000
+        },
+        {
+            "Posição": 77,
+            "Nome": "Independence Day",
+            "Ano de Lançameto": 1996,
+            "Arrecadação": 810400000
+        },
+        {
+            "Posição": 78,
+            "Nome": "Viva - A Vida é Uma Festa",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 807100000
+        },
+        {
+            "Posição": 79,
+            "Nome": "Shrek Terceiro",
+            "Ano de Lançameto": 2007,
+            "Arrecadação": 798900000
+        },
+        {
+            "Posição": 80,
+            "Nome": "Harry Potter e O Prisioneiro de Azkaban",
+            "Ano de Lançameto": 2004,
+            "Arrecadação": 796600000
+        },
+        {
+            "Posição": 81,
+            "Nome": "Piratas do Caribe: A Vingança de Salazar",
+            "Ano de Lançameto": 2017,
+            "Arrecadação": 794900000
+        },
+        {
+            "Posição": 82,
+            "Nome": "E.T. - O Extraterrestre",
+            "Ano de Lançameto": 1982,
+            "Arrecadação": 792900000
+        },
+        {
+            "Posição": 83,
+            "Nome": "Missão: Impossível - Efeito Fallout",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 791100000
+        },
+        {
+            "Posição": 84,
+            "Nome": "Velozes & Furiosos 6",
+            "Ano de Lançameto": 2013,
+            "Arrecadação": 788700000
+        },
+        {
+            "Posição": 85,
+            "Nome": "Indiana Jones e O Reino da Caveira de Cristal",
+            "Ano de Lançameto": 2008,
+            "Arrecadação": 786600000
+        },
+        {
+            "Posição": 86,
+            "Nome": "Homem-Aranha 2",
+            "Ano de Lançameto": 2004,
+            "Arrecadação": 783800000
+        },
+        {
+            "Posição": 87,
+            "Nome": "Deadpool",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 783100000
+        },
+        {
+            "Posição": 88,
+            "Nome": "Deadpool 2",
+            "Ano de Lançameto": 2018,
+            "Arrecadação": 778900000
+        },
+        {
+            "Posição": 89,
+            "Nome": "Guerra nas Estrelas",
+            "Ano de Lançameto": 1977,
+            "Arrecadação": 775400000
+        },
+        {
+            "Posição": 90,
+            "Nome": "Guardiões da Galáxia",
+            "Ano de Lançameto": 2014,
+            "Arrecadação": 773300000
+        },
+        {
+            "Posição": 91,
+            "Nome": "2012",
+            "Ano de Lançameto": 2009,
+            "Arrecadação": 769700000
+        },
+        {
+            "Posição": 92,
+            "Nome": "O Rei Leão",
+            "Ano de Lançameto": 1994,
+            "Arrecadação": 766800000
+        },
+        {
+            "Posição": 93,
+            "Nome": "Malévola",
+            "Ano de Lançameto": 2014,
+            "Arrecadação": 758500000
+        },
+        {
+            "Posição": 94,
+            "Nome": "O Código Da Vinci",
+            "Ano de Lançameto": 2006,
+            "Arrecadação": 758200000
+        },
+        {
+            "Posição": 95,
+            "Nome": "O Espetacular Homem-Aranha",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 757900000
+        },
+        {
+            "Posição": 96,
+            "Nome": "Jogos Vorazes: A Esperança - Parte 1",
+            "Ano de Lançameto": 2014,
+            "Arrecadação": 755300000
+        },
+        {
+            "Posição": 97,
+            "Nome": "Shrek Para Sempre",
+            "Ano de Lançameto": 2010,
+            "Arrecadação": 752600000
+        },
+        {
+            "Posição": 98,
+            "Nome": "X-Men: Dias de Um Futuro Esquecido",
+            "Ano de Lançameto": 2014,
+            "Arrecadação": 747800000
+        },
+        {
+            "Posição": 99,
+            "Nome": "Madagascar 3: Os Procurados",
+            "Ano de Lançameto": 2012,
+            "Arrecadação": 746900000
+        },
+        {
+            "Posição": 100,
+            "Nome": "Esquadrão Suicida",
+            "Ano de Lançameto": 2016,
+            "Arrecadação": 745600000
+        }
+    ]
+}

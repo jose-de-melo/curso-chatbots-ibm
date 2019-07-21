@@ -1,0 +1,31 @@
+{
+    "receitas": [
+        {
+            "ingredientes": [
+                "4 ovos",
+                "1 1/2 xícara de açúcar",
+                "100g de manteiga em ponto de pomada",
+                "200ml de leite de coco + 200ml de leite de coco",
+                "1 xícara de leite integral",
+                "1 1/2 xícara de farinha",
+                "1 colher de sopa de fermento químico",
+                "1 lata (395g) de leite condensado",
+                "2 xícaras de coco ralado"
+            ],
+            "nome": "Bolo Toalha Felpuda",
+            "instrucoes": [
+                "Separar as gemas das claras e reservar as claras na geladeira.",
+                "Adicionar em uma tigela o açúcar, a manteiga, as gemas e bater até ficar uma mistura bem fofa e clara.",
+                "Adicionar 200ml de leite de coco e misturar.",
+                "Adicionar a farinha e fazer o mesmo; mexer com uma espátula e bater por mais 30 segundos.",
+                "Adicionar 1/2 xícara de leite integral e seguir batendo.",
+                "Adicionar as claras em neve à mistura inicial, mexendo delicadamente para incorporar, sem bater mais.",
+                "Por último, adicionar o fermento e misturar bem.",
+                "Colocar em uma forma untada com manteiga e enfarinhada e levar para assar em forno preaquecido a 180 graus por 30 minutos.",
+                "Enquanto o bolo assa, preparar a cobertura misturando 1 lata de leite condensado com 1/2 xícara de leite e 200ml de leite de coco.",
+                "Depois de frio, cortar fatias quadradas de bolo, banhar na calda e passar no coco ralado.",
+                "Enrolar no papel alumínio, refrigerar por, pelo menos, 2 horas e servir. Dica: Para manter o bolo úmido e fresquinho, armazenar no papel alumínio até o momento de servir."
+            ]
+        }
+    ]
+}
