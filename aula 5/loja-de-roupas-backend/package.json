@@ -20,7 +20,7 @@
     "mongoose": "^5.5.15",
     "node-restful": "^0.2.5",
     "nodemon": "^1.19.1",
-    "pm2": "^3.5.1",
+    "pm2": "^5.2.0",
     "postinstall": "^0.4.2",
     "watson-developer-cloud": "^3.15.1"
   },
